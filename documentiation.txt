@@ -1,0 +1,17 @@
+diamond-fitness/
+├── README.md                          # Projekt áttekintő
+├── docs/
+│   ├── 01-PROJECT-OVERVIEW.md         # Projekt leírás
+│   ├── 02-FEATURES.md                 # Funkciók részletesen
+│   ├── 03-ARCHITECTURE.md             # Rendszer architektúra
+│   ├── 04-DATABASE-SCHEMA.md          # Adatbázis struktúra
+│   ├── 05-API-DOCUMENTATION.md        # API végpontok
+│   ├── 06-USER-FLOWS.md               # Felhasználói folyamatok
+│   ├── 07-ADMIN-GUIDE.md              # Admin útmutató
+│   ├── 08-DEPLOYMENT.md               # Telepítés Railway-re
+│   ├── 09-DEVELOPMENT-GUIDE.md        # Fejlesztői útmutató
+│   ├── 10-BADGES-MANAGEMENT.md        # Badge kezelés
+│   ├── 11-MULTILANGUAGE.md            # Többnyelvűség
+│   ├── 12-SECURITY-GDPR.md            # Biztonság & GDPR
+│   └── 13-TROUBLESHOOTING.md          # Hibaelhárítás
+└── ...
